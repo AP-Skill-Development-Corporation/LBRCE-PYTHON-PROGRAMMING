@@ -1,0 +1,5 @@
+this@ is my$ sample file hello everyone
+ python@programming
+ java&programming123
+ machine learning456
+ 
